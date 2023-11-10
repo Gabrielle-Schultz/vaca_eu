@@ -37,20 +37,20 @@
 ## Paris
 - 12/9 Saturday
     - Notre Dame
-        - Crypte Acheologique (Roman Ruins)
-        - Sainte Chapelle (church)
+        - Crypte Acheologique (Roman Ruins)(https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission)
+        - Sainte Chapelle (church) (https://tickets.monuments-nationaux.fr/en-GB/session-products)
     - Pantheon
-        - Luxemburg Gardens
+        - Luxemburg Gardens (no ticket/reservation required)
     - Eiffel Tower
 - 12/10 Sunday - `Versailles Tickets`
-    - Versailles
-- 12/11 Monday - `Lourve Tickets`
+    - Versailles (https://billetterie.chateauversailles.fr/passport-visite-chateau-css5-chateauversailles-lgen-pg51-ei552471.html)
+- 12/11 Monday - `Lourve Tickets` (https://www.ticketlouvre.fr/louvre/b2c/index.cfm/pmpevent/eventCode/PMP)
     - [Lourve](Lourve-Checklist.md)
         - Garden
         - Royal Palace
         - Opera (& rooftop)
     - Basilica of the Sacred Heart
-    - Arc de Triumph
+    - Arc de Triumph (no ticket/reservation required)
 - 12/12 Tuesday - `Disneyland Tickets`
     - Disneyland
 
